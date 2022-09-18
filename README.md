@@ -26,7 +26,7 @@ O que o servidor salvou? Foram salvas entradas de games e anúncios, cada um con
 - createdAt
 
 ---
-
+Para a elaboração do server a ferramenta mais utilizada o typescript, que adicional ao js adiciona uma linguagem tipada. 
 ## Contato
 
 matheusilva334@gmail.com
