@@ -2,6 +2,7 @@
 
 >Trilha ignite
 
+-> abaixo, preview do servidor executado em servidor local através do prisma Studio:
 ![preview](/.github/server.png)
 
 ---
@@ -26,7 +27,7 @@ O que o servidor salvou? Foram salvas entradas de games e anúncios, cada um con
 - createdAt
 
 ---
-Para a elaboração do server a ferramenta mais utilizada o typescript, que adicional ao js adiciona uma linguagem tipada. 
+Para a elaboração do server a ferramenta mais utilizada o TypeScript, que adicional ao js adiciona uma linguagem tipada. 
 ## Contato
 
 matheusilva334@gmail.com
