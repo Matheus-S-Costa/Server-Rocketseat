@@ -1,22 +1,32 @@
-# Back-end
+# Back-end - servidor RocketSeat
 
-## Entidades
+>Trilha ignite
 
-### Games
+![preview](/.github/server.png)
 
-id
-title
-bannerUrl
+---
+O que o servidor salvou? Foram salvas entradas de games e anúncios, cada um contendo os tópicos listados abaixo:
+## Games
 
-### Ad
+- id
+- title
+- bannerUrl
 
-id
-gameId
-Name
-yearsPlaying
-discord
-weekDays
-hourStart
-hoursEnd
-useVoiceChannel
-createdAt
+## Ad
+
+- id
+- gameId
+- Name
+- yearsPlaying
+- discord
+- weekDays
+- hourStart
+- hoursEnd
+- useVoiceChannel
+- createdAt
+
+---
+
+## Contato
+
+matheusilva334@gmail.com
